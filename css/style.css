@@ -11118,5 +11118,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+div {
+  margin: 2rem;
+}
 
 /*# sourceMappingURL=style.css.map */
