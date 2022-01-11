@@ -1,0 +1,23 @@
+{
+    "name": "e-commerce-electrodomesticos",
+    "version": "1.0.0",
+    "description": "E-commerce de electrodomesticos",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "compile:sass": "sass --watch scss/style.scss css/style.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/felipelena8/e-commerce-electrodomesticos.git"
+    },
+    "author": "Felipe Costa y Franco Ferreira",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/felipelena8/e-commerce-electrodomesticos/issues"
+    },
+    "homepage": "https://github.com/felipelena8/e-commerce-electrodomesticos#readme",
+    "dependencies": {
+        "bootstrap": "^5.1.3"
+    }
+}
